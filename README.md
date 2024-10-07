@@ -10,6 +10,7 @@ Secrets is a unique application that allows users to submit their secrets anonym
 **User Authentication:** The application employs a robust authentication system using **Passport.js**, which integrates multiple strategies:
 
 **Basic Authentication Strategy:** Users can log in with a simple username and password, ensuring straightforward access while maintaining privacy.
+
 **Google Authentication Strategy:** For a more seamless experience, users can authenticate via their Google accounts, allowing them to log in easily without needing to create a separate account.
 
 **Security Measures:**
