@@ -1,7 +1,7 @@
 
 ## Secrets: An Anonymous Secret Submission App
 **Overview**:
-Secrets is a unique application that allows users to submit their secrets anonymously. The app is designed to offer a safe and secure platform for individuals to share thoughts, confessions, and experiences without the fear of judgment or exposure.
+Secrets is a unique application that allows users to submit their secrets anonymously. The app is designed to offer a safe and secure platform for individuals to share thoughts, confessions, and experiences without the fear of judgment t or exposure.
 
 ##**Key Features:**
 
